@@ -19,4 +19,4 @@ python myquast.py test_data/contigs_1.fasta \
 An input filename for the contig assembly in FASTA format is required. Argument for output filename is optional.
 
 ## Output
-The default output filename is contigReport.txt.
+The report is a text file that contains the number of contigs, total length in base pairs, largest contig, and N50 value. The default output filename is contigReport.txt.
