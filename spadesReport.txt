@@ -1,0 +1,4 @@
+# contigs               7
+Total length       179607
+Largest contig     132140
+N50                132140

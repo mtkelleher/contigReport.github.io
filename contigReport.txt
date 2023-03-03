@@ -1,0 +1,4 @@
+# contigs             190
+Total length       187266
+Largest contig      12932
+N50                  5770
