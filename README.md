@@ -1,7 +1,7 @@
 # contigReport
 This stand-alone Python program generates a report from a contig file in FASTA format.
 
-The report is a text file that contains:
+The report generated is a text file that contains:
 * Number of contigs
 * Total length in base pairs
 * Largest contig
@@ -11,7 +11,7 @@ The report is a text file that contains:
 Must have Python3 and download contigReport.py to run.
 
 ## Usage
-python myquast.py test_data/contigs_1.fasta \
+python3 myquast.py test_data/contigs_1.fasta \
         -o quast_test_output (optinal for output directory)
         -h (showing usage)
 
