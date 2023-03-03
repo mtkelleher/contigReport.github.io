@@ -7,8 +7,8 @@ The report contains:
 * Largest contig
 * N50 value
 
-##Input
+## Input
 An input filename for the contig assembly in FASTA format is required. Argument for output filename is optional.
 
-###Output
+### Output
 The default output filename is contigReport.txt.
