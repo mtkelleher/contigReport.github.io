@@ -1,2 +1,14 @@
-# contig_report
-This program generates a report from a contig assembly. An input filename for the contig assembly in FASTA format is required. A text file is output with the number of contigs, total length in bp, largest contig, and N50 value. Argument for output filename is optional. The default output filename is contigReport.txt
+# contigReport
+This stand-alone Python program generates a report from a contig file in FASTA format.
+
+The report contains:
+*Number of contigs
+*Total length in base pairs
+*Largest contig
+*N50 value
+
+##Input
+An input filename for the contig assembly in FASTA format is required. Argument for output filename is optional.
+
+###Output
+The default output filename is contigReport.txt.
