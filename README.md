@@ -8,7 +8,12 @@ The report is a text file that contains:
 * N50 value
 
 ## Requirements and installation
-Must have Python3 and download contigReport.py. Run in terminal with input filename.
+Must have Python3 and download contigReport.py to run.
+
+## Usage
+python myquast.py test_data/contigs_1.fasta \
+        -o quast_test_output (optinal for output directory)
+        -h (showing usage)
 
 ## Input
 An input filename for the contig assembly in FASTA format is required. Argument for output filename is optional.
